@@ -46,6 +46,15 @@ This project explores Uber ride booking data to gain insights into ride patterns
 - **Evaluation Metrics**: Accuracy, Precision, Recall, F1-score  
 
 ---
+## Contact :
+
+gmail:- pandmahadev120@gmail.com
+
+linkedin :- https://www.linkedin.com/in/mahadev-data-scientist/
+
+twitter : - https://x.com/Mahadev_Py
+
+https://www.mahadev.me/
 
 ## 🚀 How to Run
 
